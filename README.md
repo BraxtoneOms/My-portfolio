@@ -37,7 +37,7 @@ This is the source code for Braxtone Omusugu's personal portfolio website: an ac
 3. **Update content**:
    - Replace the profile image (`1000232940.webp`) with your own.
    - Modify text sections to reflect your personal info, skills, projects, and contact details.
-   - Update links (LinkedIn, GitHub, downloadable resume) as needed.
+   - Update links (LinkedIn, downloadable resume) as needed.
 4. **Contact Form**:
    - The form uses **Formspree** for backend processing.
    - Replace the `action` attribute in the form tag with your own Formspree endpoint.
