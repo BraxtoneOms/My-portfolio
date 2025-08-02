@@ -71,6 +71,7 @@ For questions or collaboration, reach out via:
 
 - **Email**: [Braxtoneomusugu2@gmail.com](mailto:Braxtoneomusugu2@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/braxtone-o-b399461b9](https://linkedin.com/in/braxtone-o-b399461b9)
+- **Portfolio**: [https://braxtoneoms.github.io/My-portfolio/]
 
 ---
 
