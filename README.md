@@ -1,6 +1,6 @@
 # Braxtone Omusugu Portfolio Website
 
-**Portfolio**: [Braxtone Omusugu - Portfolio](https://braxtoneoms.github.io/My-portfolio/)
+**Portfolio link**: [Braxtone Omusugu - Portfolio](https://braxtoneoms.github.io/My-portfolio/)
 ---
 
 This is the source code for Braxtone Omusugu's personal portfolio website: an actuary, software engineer, and data scientist based in Nairobi. The webpage showcases Braxtone's background, skills, professional interests, projects, education, and contact information in a clean, modern, and interactive format.
@@ -74,7 +74,7 @@ For questions or collaboration, reach out via:
 
 - **Email**: [Braxtoneomusugu2@gmail.com](mailto:Braxtoneomusugu2@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/braxtone-o-b399461b9](https://linkedin.com/in/braxtone-o-b399461b9)
-- **Portfolio**: [Braxtone Omusugu - Portfolio](https://braxtoneoms.github.io/My-portfolio/)
+- **Portfolio link**: [Braxtone Omusugu - Portfolio](https://braxtoneoms.github.io/My-portfolio/)
 
 ---
 
