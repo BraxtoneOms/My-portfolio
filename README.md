@@ -58,7 +58,7 @@ This is the source code for Braxtone Omusugu's personal portfolio website: an ac
 ## Customization Tips
 
 - **Styling**: Modify `style.css` for custom colors, fonts, layout adjustments.  
-- **Animation**: The Matrix background is implemented with Canvas and JS in `index.html`. Customize characters, colors, or speed.  
+- **Animation**: The Matrix background is implemented with Canvas in `index.html`. Customize characters, colors, or speed.  
 - **Accessibility**: Add ARIA labels and more semantic HTML elements.  
 - **SEO**: Enhance meta tags, titles, and descriptions.  
 - **Forms**: Use a service like Formspree or integrate your own backend.
