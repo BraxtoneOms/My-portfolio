@@ -46,11 +46,11 @@ This is the source code for Braxtone Omusugu's personal portfolio website: an ac
 
 ## Project Structure
 
-├── index.html # Main HTML file
-├── READMEE.md # README file
-├── style.css # CSS stylesheet
-├── 1000232940.webp # Profile image
-├── Braxtone Omusugu Resume.pdf # Downloadable CV
+1. ├── index.html # Main HTML file
+2. ├── READMEE.md # README file
+3. ├── style.css # CSS stylesheet
+4. ├── 1000232940.webp # Profile image
+5. ├── Braxtone Omusugu Resume.pdf # Downloadable CV
 
 
 ---
