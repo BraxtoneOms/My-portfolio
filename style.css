@@ -1,0 +1,153 @@
+/* General */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: transparent;
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+a {
+  color: #00ffcc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.75);  /* darker and less transparent */
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.6);
+}
+h1, h2, h3 {
+  color: #ffffff;
+  text-shadow: 0 0 6px rgba(0, 255, 128, 0.3); /* subtle green glow */
+}
+
+.intro .tagline, p, li {
+  font-size: 1.05rem;
+  color: #f0f0f0;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+}
+
+.project h3 {
+  color: #00ffcc;
+  text-shadow: 0 0 4px rgba(0, 255, 204, 0.4);
+}
+
+
+h2 {
+  border-bottom: 2px solid #00ffcc;
+  padding-bottom: 0.5rem;
+}
+
+/* Hero */
+.hero {
+  padding: 2rem;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.8);
+}
+.intro h1 {
+  font-size: 2.5rem;
+  color: #00ffcc;
+  text-shadow: 0 0 8px rgba(0, 255, 204, 0.6);
+}
+
+
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  border: 3px solid #00ffcc;
+  margin-bottom: 1rem;
+}
+
+.intro .tagline {
+  font-size: 1.1rem;
+  color: #ccc;
+}
+
+/* Contact */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  color: #fff;
+  padding: 0.75rem;
+  border-radius: 5px;
+}
+
+.contact-form button {
+  background-color: #00ffcc;
+  color: #000;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #00e6b8;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.6);
+  font-size: 0.9rem;
+}
+
+/* Canvas Background */
+#matrix {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -2;
+  width: 100vw;
+  height: 100vh;
+  background: black;
+  opacity: 0.15; /* ← this softens the visual intensity */
+}
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #00ffcc;
+  color: #000;
+  padding: 12px 16px;
+  font-size: 1.5rem;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 0 12px rgba(0, 255, 204, 0.4);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  z-index: 1000;
+}
+
+.back-to-top:hover {
+  background-color: #00e6b8;
+  transform: scale(1.1);
+}
+
+
